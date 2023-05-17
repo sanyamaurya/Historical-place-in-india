@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Historical Places in India</title>
+    <style>* {
+        box-sizing: border-box;
+    }	body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    padding: 20px;
+    border: 1px solid #6520a2;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+
+    max-width: 100%;
+    height: auto;
+    }
+    
+
+.header {
+    background-color: #20567e;
+    color: #292727;
+    padding: 10px;
+    text-align: center;
+}
+
+.footer {
+    background-color: #154d88;
+    color: #0e0e0e;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+</style>
+</head>
+<body>
+    <header class="header">
+		<h1>Historical Places in India</h1>
+	</header>
+<main>
+<div>
+    <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2017/07/Agra1.jpg" width="400px" hight="480px" alt="Historical Place 1">
+<p>he Taj Mahal'Crown of the Palace' is an ivory-white marble mausoleum on the right bank of the river Yamuna in Agra, Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal.</p>
+</div>
+
+<div>
+    <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Hawa-Mahal-Jaipur.jpg" width="400px" hight="480px" alt="Historical Place 2">
+<p>The Hawa Mahal is a palace in the city of Jaipur, India. Built from red and pink sandstone, it is on the edge of the City Palace, Jaipur, and extends to the Zenana, or women's chambers.
+
+        The structure was built in 1799 by the Maharaja Sawai Pratap Singh, grandson of Maharaja Sawai Jai Singh, the founder of the city of jhunjhunu Rajasthan. He was so inspired by the unique structure of Khetri Mahal that he built this grand and historical palace</p>
+</div>
+
+<div>
+     <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Red-Fort-Delhi.jpg" widt="400px" hight="480px" alt="Historical place 3">
+     <p>The Red Fort or Lal Qila  is a historic fort in the Old Delhi neighbourhood of Delhi, India, that historically served as the main residence of the Mughal emperors. Emperor Shah Jahan commissioned construction of the Red Fort on 12th May 1638, when he decided to shift his capital from Agra to Delhi. Originally red and white, its design is credited to architect Ustad Ahmad Lahori, who also constructed the Taj Mahal.</p>
+     </div>
+
+<div>
+    <img src="https://assets.traveltriangle.com/blog/wp-content/uploads/2019/02/Qutub-Minar-Delhi.jpg" width="400px" hight="480px" alt="Historical place 4">
+    <p>he Qutb Minar complex are monuments and buildings from the Delhi Sultanate at Mehrauli in Delhi, India. Construction of the Qutub Minar "victory tower" in the complex, named after the religious figure Sufi Saint Khwaja Qutbuddin Bakhtiar Kaki, was begun by Qutb-ud-din Aibak, who later became the first Sultan of Delhi of the Mamluk dynasty (Gulam Vansh). It was continued by his successor Iltutmish , and finally completed much later by Firoz Shah Tughlaq, a Sultan of Delhi from the Tughlaq dynasty (1320-1412) in 1368 AD.</p>
+    </div>
+
+</main>
+
+<footer>
+	<p>Designed and Developed By Sanya Maurya</p>
+</footer>
